@@ -26,6 +26,7 @@ npm run dev
 
 # Open the app
 # http://localhost:3000
+# https://ai-smart-contract-generator-azure.vercel.app/
 ```
 
 ## How It Works
